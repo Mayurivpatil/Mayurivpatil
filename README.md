@@ -1,3 +1,5 @@
+                                                     Hi 👋, I'm Mayuri Patil
+                      BCA Student at K. K. Wagh Arts, Commerce, Science & Computer Science College, Nashik 422003.
 - 👋 Hi, I’m Mayuri Patil.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning BCA at K. K. Wagh Arts, Commerce, Science & Computer Science College, Nashik 422003.
