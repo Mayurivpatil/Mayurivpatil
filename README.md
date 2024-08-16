@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://victorthemes.com/themes/fame/wp-content/uploads/2019/05/faq-image-1.png"/>
 
-- 🌱 I’m currently learning **BCA at K. K. Wagh Arts, Commerce, Science & Computer Science College, Nashik 422003.**
+- 🌱 I’m currently learning **BCA at K. K. Wagh Arts, Commerce, Science & Computer Science College, Nashik.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mayurivpatil](https://github.com/Mayurivpatil)
 
