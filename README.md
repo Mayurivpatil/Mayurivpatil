@@ -5,20 +5,23 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 MCA Student at **SNDT Women's University, Mumbai**
-- 🌱 Learning **MERN Stack, DSA & System Design**
-- 💻 Passionate about **Full Stack Web Development**
-- 👨‍💻 Check out my projects: **github.com/Mayurivpatil**
-- 💬 Ask me about **React.js, Node.js, Express.js, Java, JavaScript & MySQL**
-- 📫 **mayurivpatil2210@gmail.com**
+- 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **SNDT Women's University, Mumbai**
+- 🌱  Currently learning **Advanced MERN Stack Development, Data Structures & Algorithms, and System Design**
+- 💻 Passionate about **Full Stack Web Development** and building real-world applications
+- 👨‍💻 Check out my projects: **https://github.com/Mayurivpatil**
+- 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, MySQL, REST APIs, HTML and CSS**
+- 📫 Reach me at **mayurivpatil2210@gmail.com**
+- ⚡ Fun Fact: **I enjoy solving coding challenges and continuously learning new technologies.**
+
 
 ---
 
 ### 🏆 Achievements
 
-- 🥈 Second Rank – **C Programming Contest** (Indira College)
-- 🥉 Third Place – **Code Corner Competition (e-Merge 2022-23)**
-- 💻 Participant – **BYTE THE BUG** (Python Competition)
+- 🥈 **Second Rank** – C Programming Contest, Indira College, Malegaon (2025)
+- 🥉 **Third Place** – Code Corner Competition (e-Merge 2022–23), K. K. Wagh College, Nashik
+- 💻 Participated in **BYTE THE BUG (Python Competition)** during GYAN MANTHAN 2025, Royal College, Mumbai
+
 
 ---
 
@@ -29,9 +32,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/mayurivpatil" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40" alt="LeetCode"/>
-  </a>
 </p>
 
 ---
