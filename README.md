@@ -6,11 +6,17 @@
 ### 👩‍💻 About Me
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **SNDT Women's University, Mumbai**
+  
 - 🌱  Currently Learning **MERN Stack, DSA & System Design**
+  
 - 💻 Passionate about **Full Stack Web Development**
+  
 - 👨‍💻 Check out my projects: **https://github.com/Mayurivpatil**
+  
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, MySQL, HTML and CSS**
+  
 - 📫 Reach me at **mayurivpatil2210@gmail.com**
+  
 - ⚡ Fun Fact: **I enjoy solving coding challenges and continuously learning new technologies.**
 
 
