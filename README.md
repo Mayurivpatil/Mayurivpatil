@@ -25,7 +25,9 @@
 ### 🏆 Achievements
 
 - 🥈 **Second Rank** – C Programming Contest, Indira College, Malegaon (2025)
+  
 - 🥉 **Third Place** – Code Corner Competition (e-Merge 2022–23), K. K. Wagh College, Nashik
+  
 - 💻 Participated in **BYTE THE BUG (Python Competition)** during GYAN MANTHAN 2025, Royal College, Mumbai
 
 
