@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayuri Vilas Patil</h1>
+<h1 align="center">Hi 👋, I'm Mayuri Patil</h1>
 <h3 align="center">Aspiring Full Stack Developer | MCA Student</h3>
 
 <img align="right" alt="Coding" width="350" src="https://victorthemes.com/themes/fame/wp-content/uploads/2019/05/faq-image-1.png"/>
@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **SNDT Women's University, Mumbai**
-- 🌱  Currently learning **Advanced MERN Stack Development, Data Structures & Algorithms, and System Design**
+- 🌱  Currently Learning **MERN Stack, DSA & System Design**
 - 💻 Passionate about **Full Stack Web Development** and building real-world applications
 - 👨‍💻 Check out my projects: **https://github.com/Mayurivpatil**
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, MySQL, REST APIs, HTML and CSS**
