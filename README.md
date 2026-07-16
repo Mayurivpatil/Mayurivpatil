@@ -8,8 +8,7 @@
 - 🎓 Currently pursuing **Master of Computer Applications (MCA)** at **SNDT Women's University, Mumbai**
 - 🌱 Currently learning **Advanced MERN Stack Development, Data Structures & Algorithms, and System Design**
 - 💻 Passionate about **Full Stack Web Development** and building real-world applications
-- 🚀 Built projects like **PlacementHub**, **PizzaDash**, **Advanced Task Manager**, and **TextUtils**
-- 👨‍💻 Explore my projects here: **https://github.com/Mayurivpatil**
+- 👨‍💻 Check out my projects: **https://github.com/Mayurivpatil**
 - 💬 Ask me about **React.js, Node.js, Express.js, JavaScript, MySQL, REST APIs, HTML, CSS, and Java**
 - 📫 Reach me at **mayurivpatil2210@gmail.com**
 - ⚡ Fun Fact: **I enjoy solving coding challenges and continuously learning new technologies.**
@@ -24,47 +23,16 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 PlacementHub
-A Full-Stack College Placement Management System with dedicated dashboards for Admin, Recruiters, and Students.
-
-**Tech Stack:** React.js • Node.js • Express.js • MySQL • Tailwind CSS • JWT
-
----
-
-### 🍕 PizzaDash
-A Full-Stack Pizza Ordering System with menu browsing, shopping cart, order tracking, and admin dashboard.
-
-**Tech Stack:** HTML • CSS • JavaScript • Node.js • Express.js • MySQL
-
----
-
-### ✅ Advanced Task Manager
-A modern React task management application featuring Context API, useReducer, LocalStorage, search, filtering, and dark mode.
-
-**Tech Stack:** React.js • Bootstrap • Context API • useReducer
-
----
-
-### 📝 TextUtils
-A React application for text formatting and analysis with word count, reading time, dark mode, and live preview.
-
-**Tech Stack:** React.js • Bootstrap • JavaScript
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/mayuri-patil22" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<a href="https://linkedin.com/in/mayuri-patil22" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="35"/>
 </a>
 
-<a href="https://www.leetcode.com/mayurivpatil" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+<a href="https://leetcode.com/mayurivpatil" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" width="35"/>
 </a>
-
 </p>
 
 ---
@@ -72,37 +40,21 @@ A React application for text formatting and analysis with word count, reading ti
 ## 💻 Languages & Tools
 
 <p align="left">
-
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-
-<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-
-<a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-
-<a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.w3schools.com/css"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -111,16 +63,16 @@ A React application for text formatting and analysis with word count, reading ti
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayurivpatil&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mayurivpatil&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurivpatil&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurivpatil&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayurivpatil&layout=compact&theme=tokyonight" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayurivpatil&theme=tokyonight"/>
 </p>
 
 ---
 
-### 💡 Quote
-
-> *"Code. Learn. Build. Repeat."* 🚀
+<h3 align="center">✨ "Code • Learn • Build • Repeat" ✨</h3>
