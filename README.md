@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://ghstats.dev/api?username=Mayurivpatil&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Mayurivpatil&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
